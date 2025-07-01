@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Raphael Ribeiro
+# ![image](https://github.com/user-attachments/assets/99a29701-7049-45f6-b399-6e569ff73027) Raphael Ribeiro
 
 **`Desenvolvedor FullStack`**
 
