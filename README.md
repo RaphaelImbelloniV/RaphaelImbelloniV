@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Raphael Ribeiro Imbelloni Vitor, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software no Uniacademia. Sou apaixonado por tecnologia desde criança e sempre quis trabalhar nessa área.
+Me chamo Raphael Ribeiro Imbelloni Vitor, tenho 23 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software no Uniacademia. Sou apaixonado por tecnologia desde criança e sempre quis trabalhar nessa área.
 
 <p align="left">
     <a href="https://github.com/RaphaelImbelloniV?tab=repositories&sort=stargazers">
